@@ -1,0 +1,6 @@
+database_path: ./research_db
+gemini_api_key: #gemini-api here
+llm_backend: ollama
+max_context_chunks: 5
+ollama_base_url: http://localhost:11434
+ollama_model: phi3:latest

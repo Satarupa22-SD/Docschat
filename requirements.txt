@@ -1,0 +1,7 @@
+chromadb
+sentence-transformers
+PyPDF2
+google-generativeai
+rich
+pyyaml
+requests
